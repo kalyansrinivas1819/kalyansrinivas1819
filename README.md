@@ -5,8 +5,10 @@
 
 <!--- 💻 I’m a designer nd developer **at [SDG CAMPUS CLUB] , [3D_CLUB] NIT ROURKELA**-->
 
-- 🌱 I’m currently learning **PYTHON , SQL**
+- 🌱 I’m currently learning **PYTHON , SQL , ML ,DL , POWER BI **
 
+- 🤝 I’m student representative at **[Literary and Cultural Society SAC] NIT ROURKELA**
+  
 - 🤝 I’m coordinator at **[ROTARACT CLUB],[CHEF'S CLUB],[FUSION CLUB] NIT ROURKELA**
 
 - 🤝 I’m Mentor at **[ICS-INSTITUTE COUNSELLING SERVICES]NIT ROURKELA**
